@@ -64,7 +64,7 @@ void draw() {
           image(start1, 320, 240);
           if(mousePressed){
             gameState = GAME_RUN;
-            enemyState = A;
+            enemyState = C;
           }
         }
       }
